@@ -1,0 +1,11 @@
+Room,Bldg,Max Capacity,Type
+MAIZE 102,MAIZE,21,Specialty
+MAIZE 202,MAIZE,43,General
+MAIZE 302,MAIZE,36,General
+MAIZE 402,MAIZE,64,General
+MAIZE 502,MAIZE,64,Specialty
+BLUE 102,BLUE,78,Specialty
+BLUE 202,BLUE,29,Specialty
+BLUE 302,BLUE,57,General
+BLUE 402,BLUE,79,Specialty
+BLUE 502,BLUE,34,General
