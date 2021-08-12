@@ -1,0 +1,10 @@
+For particular test folder, test/, and priority folder test/priority/, we have the following input files
+for each Tableau packaged workbook:
+
+new_schedule_statistics.twbx: 
+	•	test/priority/new_schedule.xlsx
+	•	test/new_room_capacity.xlsx
+assignment_by_subject.twbx: 
+	•	test/priority/assignment_by_subject.xlsx
+Course Schedules.twbx: 
+	•	test/priority/input_for_Tableau_course_schedule.xlsx
